@@ -7,8 +7,9 @@ pytorch and loss functions
 optimization functions in PyTorch
 https://pytorch.org/docs/stable/optim.html
 
-optimizers is Keras:
+optimizers:
 https://keras.io/api/optimizers/#adam
+https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/
 
 deep learning and large datasets with cloud storage:
 https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws
